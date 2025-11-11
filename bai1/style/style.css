@@ -1,0 +1,21 @@
+body {
+    font-size: 11pt;
+}
+
+div {
+    padding: 3px 5px;
+    font: normal 13pt Arial;
+}
+
+table {
+    background-color: #eaeaea;
+}
+
+td {
+    font: normal 11pt Arial;
+}
+
+.hd {
+    background-color: navy;
+    color: white;
+}
